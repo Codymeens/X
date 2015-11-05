@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="260.6dp"
+        android:id="@+id/afbeelding_UML" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="66.5dp"
+        android:id="@+id/aantekeningen"
+        android:text="maak hier uw aantekeningen"
+        android:gravity="center" />
+    <RatingBar
+        android:layout_width="241.3dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingBar"
+        android:layout_marginLeft="65dp" />
+    <Button
+        android:text="open afbeelding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/open" />
+    <Button
+        android:text="download afbeelding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/download" />
+    <Button
+        android:text="upload nog een afbeelding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/upload" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+C:\Users\cody\Documents\Projects\UMLviewapp1\UMLviewapp1\obj\Debug\assemblies\UMLviewapp1.dll
+C:\Users\cody\Documents\Projects\UMLviewapp1\UMLviewapp1\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\cody\Documents\Projects\UMLviewapp1\UMLviewapp1\obj\Debug\assemblies\mscorlib.dll
+C:\Users\cody\Documents\Projects\UMLviewapp1\UMLviewapp1\obj\Debug\assemblies\System.Core.dll
+C:\Users\cody\Documents\Projects\UMLviewapp1\UMLviewapp1\obj\Debug\assemblies\System.dll
+C:\Users\cody\Documents\Projects\UMLviewapp1\UMLviewapp1\obj\Debug\assemblies\System.Xml.dll

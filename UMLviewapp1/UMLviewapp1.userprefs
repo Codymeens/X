@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="UMLviewapp1\UMLviewapp1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 10 (KitKat)" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="UMLviewapp1\MainActivity.cs" Line="25" Column="32" />
+      <File FileName="UMLviewapp1\activity_start_knop.cs" Line="32" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UMLviewapp1 AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

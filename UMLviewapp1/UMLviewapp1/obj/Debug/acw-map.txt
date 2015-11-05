@@ -1,0 +1,8 @@
+UMLviewapp1.MainActivity, UMLviewapp1;md5887febc98af14882cb75632a4f2dbe23.MainActivity
+UMLviewapp1.MainActivity, UMLviewapp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5887febc98af14882cb75632a4f2dbe23.MainActivity
+UMLviewapp1.MainActivity;md5887febc98af14882cb75632a4f2dbe23.MainActivity
+umlviewapp1.MainActivity;md5887febc98af14882cb75632a4f2dbe23.MainActivity
+UMLviewapp1.activity_start_knop, UMLviewapp1;md5887febc98af14882cb75632a4f2dbe23.activity_start_knop
+UMLviewapp1.activity_start_knop, UMLviewapp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5887febc98af14882cb75632a4f2dbe23.activity_start_knop
+UMLviewapp1.activity_start_knop;md5887febc98af14882cb75632a4f2dbe23.activity_start_knop
+umlviewapp1.activity_start_knop;md5887febc98af14882cb75632a4f2dbe23.activity_start_knop
